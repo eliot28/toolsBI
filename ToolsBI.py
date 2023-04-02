@@ -2,7 +2,6 @@
 """
 Created on Thu Oct 20 16:17:43 2022
 
-@author: malejvillalobos
 """
 
 #%% Librería
